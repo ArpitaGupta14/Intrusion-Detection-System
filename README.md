@@ -115,20 +115,4 @@ XGBoost consistently outperformed Logistic Regression and Random Forest by learn
 * Feature selection using GA, PCA, or mutual information
 * Cross-dataset validation (CICIDS2017, Bot-IoT)
 
----
-
-## 👩‍💻 Contributors
-
-* **Arpita Gupta**
-* Sakshi Patidar
-* Arushi Mishra
-* Mude Roopa
-
-**Guided by:** Dr. Pankaj Kumar
-
-
----
-
-## 📜 License
-
-This project is developed for **academic and research purposes**.
+---.
